@@ -137,7 +137,7 @@ export const projects = [
     isFeatured: false,
     des: "Portfolio – Capture, organize, and share your thoughts effortlessly with smart, clutter-free note-taking.",
     img: "/portfolio.jpg",
-    iconLists: ["/re.svg", "/chakra-ui.svg"],
+    iconLists: ["/next.svg", "/tail.svg","/three.svg"],
     link: "https://modern-portfolioo.netlify.app",
     github: 'https://github.com/realraja/modern-portfolio',
   },
