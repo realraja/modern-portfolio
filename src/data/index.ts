@@ -131,6 +131,16 @@ export const projects = [
     link: "https://mr-video-hub.vercel.app/",
     github: 'https://github.com/realraja/video-hub',
   },
+  {
+    id: 7,
+    title: "Portfolio",
+    isFeatured: false,
+    des: "Portfolio – Capture, organize, and share your thoughts effortlessly with smart, clutter-free note-taking.",
+    img: "/portfolio.jpg",
+    iconLists: ["/re.svg", "/chakra-ui.svg"],
+    link: "https://modern-portfolioo.netlify.app",
+    github: 'https://github.com/realraja/modern-portfolio',
+  },
 ];
 
 
