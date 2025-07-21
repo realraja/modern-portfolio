@@ -72,6 +72,16 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 0,
+    title: "Order It Online",
+    isFeatured: true,
+    des: " Features include product listing, cart management, user authentication, order placement, and an admin dashboard for managing categories and products.",
+    img: "/ecommerce.png",
+    iconLists: ["/re.svg", "/tail.svg","/mongo-svgrepo-com.svg",'/redux-logo-svgrepo-com.svg','/cloud.svg'],
+    link: "https://order-it-online.netlify.app/",
+    github: 'https://github.com/realraja/order-it-online'
+  },
+  {
     id: 1,
     title: "VOOC",
     isFeatured: true,
